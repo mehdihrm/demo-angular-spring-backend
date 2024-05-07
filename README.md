@@ -38,3 +38,36 @@ POSTMan :
 ![image](https://github.com/mehdihrm/demo-angular-spring-backend/assets/83135160/cae55519-230e-4996-a275-8fa940a578e3)
 
   ![image](https://github.com/mehdihrm/demo-angular-spring-backend/assets/83135160/d9e87f2b-7e2d-4e09-81d5-bd59d26e853f)
+
+
+Angular Front END : 
+1. Créer un projet angular 
+
+![image](https://github.com/mehdihrm/demo-angular-spring-backend/assets/83135160/c22bd4c3-1b06-4e3b-b925-f18b1159f378)
+2. Intégrer Angular Material
+
+![image](https://github.com/mehdihrm/demo-angular-spring-backend/assets/83135160/4e43e118-5a1d-4f3b-994f-4bd76d6f7c86)
+
+  3. Créer une page template contenant un Toolbar avec une barre de menu et un Side Menu
+     
+![image](https://github.com/mehdihrm/demo-angular-spring-backend/assets/83135160/a0d28453-3621-4d23-ab96-c1ff16847cd4)
+
+   4. Créer les différents component de l'application
+
+![image](https://github.com/mehdihrm/demo-angular-spring-backend/assets/83135160/26d40525-2124-4b28-93fb-c57ba91ab423)
+
+  5. Créer un système d'authentification simple    :
+
+ ![image](https://github.com/mehdihrm/demo-angular-spring-backend/assets/83135160/b45660ec-0ba6-4fb5-8663-a81d8890066d)
+
+  ![image](https://github.com/mehdihrm/demo-angular-spring-backend/assets/83135160/3e1a0b8e-e453-4de6-8543-230441d6d05f)
+
+![image](https://github.com/mehdihrm/demo-angular-spring-backend/assets/83135160/760a4798-13ee-40cb-9e72-d10dfe17813d)
+
+Execution : 
+
+![image](https://github.com/mehdihrm/demo-angular-spring-backend/assets/83135160/4821b725-881f-4f99-b93d-67a61eb11f1e)
+
+
+  
+
