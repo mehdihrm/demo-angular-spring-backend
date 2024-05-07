@@ -12,16 +12,14 @@ import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
-import java.awt.*;
 import java.io.IOException;
 import java.net.URI;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.util.List;
-import java.util.UUID;
 
+@CrossOrigin("*")
 @RestController @AllArgsConstructor
 public class PaymentRestController {
     private StudentRepository studentRepository;
